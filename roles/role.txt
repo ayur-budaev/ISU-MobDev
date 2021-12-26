@@ -1,0 +1,8 @@
+roles:
+Ayur Budaev
+Ivan Sergeevich
+textLines:
+Ayur Budaev: How your things going?
+Ivan Sergeevich: Much better than yours
+Ayur Budaev: god damn that's true
+Ivan Sergeevich: Ofcourse that's true my nig...
